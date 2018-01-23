@@ -1,0 +1,275 @@
+{
+   "playback" : [
+      {
+         "isSure" : 1,
+         "location" : 1,
+         "note" : [ 28 ],
+         "time" : [ 0.0 ]
+      },
+      {
+         "isSure" : 1,
+         "location" : 2,
+         "note" : [ 28 ],
+         "time" : [ 1.20 ]
+      },
+      {
+         "isSure" : 1,
+         "location" : 3,
+         "note" : [ 32 ],
+         "time" : [ 1.80 ]
+      },
+      {
+         "isSure" : 1,
+         "location" : 4,
+         "note" : [ 32 ],
+         "time" : [ 3.0 ]
+      },
+      {
+         "isSure" : 1,
+         "location" : 5,
+         "note" : [ 33 ],
+         "time" : [ 3.60 ]
+      },
+      {
+         "isSure" : 1,
+         "location" : 6,
+         "note" : [ 33 ],
+         "time" : [ 4.80 ]
+      },
+      {
+         "isSure" : 1,
+         "location" : 7,
+         "note" : [ 35 ],
+         "time" : [ 5.40 ]
+      },
+      {
+         "isSure" : 1,
+         "location" : 8,
+         "note" : [ 35 ],
+         "time" : [ 6.60 ]
+      },
+      {
+         "isSure" : 1,
+         "location" : 9,
+         "note" : [ 28 ],
+         "time" : [ 7.199999999999999 ]
+      },
+      {
+         "isSure" : 1,
+         "location" : 10,
+         "note" : [ 28 ],
+         "time" : [ 8.399999999999999 ]
+      },
+      {
+         "isSure" : 1,
+         "location" : 11,
+         "note" : [ 32 ],
+         "time" : [ 8.999999999999998 ]
+      },
+      {
+         "isSure" : 1,
+         "location" : 12,
+         "note" : [ 32 ],
+         "time" : [ 10.20 ]
+      },
+      {
+         "isSure" : 1,
+         "location" : 13,
+         "note" : [ 33 ],
+         "time" : [ 10.80 ]
+      },
+      {
+         "isSure" : 1,
+         "location" : 14,
+         "note" : [ 33 ],
+         "time" : [ 12.0 ]
+      },
+      {
+         "isSure" : 1,
+         "location" : 15,
+         "note" : [ 35 ],
+         "time" : [ 12.60 ]
+      },
+      {
+         "isSure" : 1,
+         "location" : 16,
+         "note" : [ 35 ],
+         "time" : [ 13.80 ]
+      },
+      {
+         "isSure" : 1,
+         "location" : 17,
+         "note" : [ 44, 28 ],
+         "time" : [ 14.40, 14.40 ]
+      },
+      {
+         "isSure" : 1,
+         "location" : 18,
+         "note" : [ 28 ],
+         "time" : [ 15.59999999999999 ]
+      },
+      {
+         "isSure" : 1,
+         "location" : 19,
+         "note" : [ 32 ],
+         "time" : [ 16.20 ]
+      },
+      {
+         "isSure" : 1,
+         "location" : 20,
+         "note" : [ 32 ],
+         "time" : [ 17.40 ]
+      },
+      {
+         "isSure" : 1,
+         "location" : 21,
+         "note" : [ 42, 33 ],
+         "time" : [ 18.0, 18.0 ]
+      },
+      {
+         "isSure" : 1,
+         "location" : 22,
+         "note" : [ 33 ],
+         "time" : [ 19.20 ]
+      },
+      {
+         "isSure" : 1,
+         "location" : 23,
+         "note" : [ 47, 35 ],
+         "time" : [ 19.80, 19.80 ]
+      },
+      {
+         "isSure" : 1,
+         "location" : 24,
+         "note" : [ 35 ],
+         "time" : [ 21.0 ]
+      },
+      {
+         "isSure" : 1,
+         "location" : 25,
+         "note" : [ 44, 28 ],
+         "time" : [ 21.60, 21.60 ]
+      },
+      {
+         "isSure" : 1,
+         "location" : 26,
+         "note" : [ 28 ],
+         "time" : [ 22.80 ]
+      },
+      {
+         "isSure" : 1,
+         "location" : 27,
+         "note" : [ 32 ],
+         "time" : [ 23.40 ]
+      },
+      {
+         "isSure" : 1,
+         "location" : 28,
+         "note" : [ 32 ],
+         "time" : [ 24.60 ]
+      },
+      {
+         "isSure" : 1,
+         "location" : 29,
+         "note" : [ 42, 33 ],
+         "time" : [ 25.20, 25.20 ]
+      },
+      {
+         "isSure" : 1,
+         "location" : 30,
+         "note" : [ 33 ],
+         "time" : [ 26.40 ]
+      },
+      {
+         "isSure" : 1,
+         "location" : 31,
+         "note" : [ 47, 35 ],
+         "time" : [ 27.0, 27.0 ]
+      },
+      {
+         "isSure" : 1,
+         "location" : 32,
+         "note" : [ 35 ],
+         "time" : [ 28.20 ]
+      },
+      {
+         "isSure" : 1,
+         "location" : 33,
+         "note" : [ 44, 28 ],
+         "time" : [ 28.80, 28.80 ]
+      },
+      {
+         "isSure" : 1,
+         "location" : 34,
+         "note" : [ 28 ],
+         "time" : [ 30.0 ]
+      },
+      {
+         "isSure" : 1,
+         "location" : 35,
+         "note" : [ 32 ],
+         "time" : [ 30.60 ]
+      },
+      {
+         "isSure" : 1,
+         "location" : 36,
+         "note" : [ 32 ],
+         "time" : [ 31.80 ]
+      },
+      {
+         "isSure" : 1,
+         "location" : 37,
+         "note" : [ 42, 33 ],
+         "time" : [ 32.40, 32.40 ]
+      },
+      {
+         "isSure" : 1,
+         "location" : 38,
+         "note" : [ 33 ],
+         "time" : [ 33.60 ]
+      },
+      {
+         "isSure" : 1,
+         "location" : 39,
+         "note" : [ 44, 35 ],
+         "time" : [ 34.20, 34.20 ]
+      },
+      {
+         "isSure" : 1,
+         "location" : 40,
+         "note" : [ 35 ],
+         "time" : [ 35.40000000000001 ]
+      },
+      {
+         "isSure" : 1,
+         "location" : 41,
+         "note" : [ 40, 32 ],
+         "time" : [ 36.00000000000001, 36.00000000000001 ]
+      },
+      {
+         "isSure" : 1,
+         "location" : 42,
+         "note" : [ 35 ],
+         "time" : [ 37.20000000000001 ]
+      },
+      {
+         "isSure" : 1,
+         "location" : 43,
+         "note" : [ 37 ],
+         "time" : [ 37.80000000000001 ]
+      },
+      {
+         "isSure" : 1,
+         "location" : 44,
+         "note" : [ 35 ],
+         "time" : [ 39.00000000000001 ]
+      },
+      {
+         "isSure" : 1,
+         "location" : 45,
+         "note" : [ 38 ],
+         "time" : [ 39.60000000000002 ]
+      }
+   ]
+}
+

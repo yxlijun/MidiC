@@ -1,0 +1,365 @@
+{
+   "correctness" : [
+      {
+         "excesses" : [],
+         "intersections" : [ 28 ],
+         "jumpback" : 0,
+         "omissions" : [],
+         "position" : 1,
+         "time" : 0.0
+      },
+      {
+         "excesses" : [],
+         "intersections" : [ 28 ],
+         "jumpback" : 0,
+         "omissions" : [],
+         "position" : 2,
+         "time" : 1.20
+      },
+      {
+         "excesses" : [],
+         "intersections" : [ 32 ],
+         "jumpback" : 0,
+         "omissions" : [],
+         "position" : 3,
+         "time" : 1.80
+      },
+      {
+         "excesses" : [],
+         "intersections" : [ 32 ],
+         "jumpback" : 0,
+         "omissions" : [],
+         "position" : 4,
+         "time" : 3.0
+      },
+      {
+         "excesses" : [],
+         "intersections" : [ 33 ],
+         "jumpback" : 0,
+         "omissions" : [],
+         "position" : 5,
+         "time" : 3.60
+      },
+      {
+         "excesses" : [],
+         "intersections" : [ 33 ],
+         "jumpback" : 0,
+         "omissions" : [],
+         "position" : 6,
+         "time" : 4.80
+      },
+      {
+         "excesses" : [],
+         "intersections" : [ 35 ],
+         "jumpback" : 0,
+         "omissions" : [],
+         "position" : 7,
+         "time" : 5.40
+      },
+      {
+         "excesses" : [],
+         "intersections" : [ 35 ],
+         "jumpback" : 0,
+         "omissions" : [],
+         "position" : 8,
+         "time" : 6.60
+      },
+      {
+         "excesses" : [],
+         "intersections" : [ 28 ],
+         "jumpback" : 0,
+         "omissions" : [],
+         "position" : 9,
+         "time" : 7.199999999999999
+      },
+      {
+         "excesses" : [],
+         "intersections" : [ 28 ],
+         "jumpback" : 0,
+         "omissions" : [],
+         "position" : 10,
+         "time" : 8.399999999999999
+      },
+      {
+         "excesses" : [],
+         "intersections" : [ 32 ],
+         "jumpback" : 0,
+         "omissions" : [],
+         "position" : 11,
+         "time" : 8.999999999999998
+      },
+      {
+         "excesses" : [],
+         "intersections" : [ 32 ],
+         "jumpback" : 0,
+         "omissions" : [],
+         "position" : 12,
+         "time" : 10.20
+      },
+      {
+         "excesses" : [],
+         "intersections" : [ 33 ],
+         "jumpback" : 0,
+         "omissions" : [],
+         "position" : 13,
+         "time" : 10.80
+      },
+      {
+         "excesses" : [],
+         "intersections" : [ 33 ],
+         "jumpback" : 0,
+         "omissions" : [],
+         "position" : 14,
+         "time" : 12.0
+      },
+      {
+         "excesses" : [],
+         "intersections" : [ 35 ],
+         "jumpback" : 0,
+         "omissions" : [],
+         "position" : 15,
+         "time" : 12.60
+      },
+      {
+         "excesses" : [],
+         "intersections" : [ 35 ],
+         "jumpback" : 0,
+         "omissions" : [],
+         "position" : 16,
+         "time" : 13.80
+      },
+      {
+         "excesses" : [],
+         "intersections" : [ 44, 28 ],
+         "jumpback" : 0,
+         "omissions" : [],
+         "position" : 17,
+         "time" : 14.40
+      },
+      {
+         "excesses" : [],
+         "intersections" : [ 28 ],
+         "jumpback" : 0,
+         "omissions" : [],
+         "position" : 18,
+         "time" : 15.59999999999999
+      },
+      {
+         "excesses" : [],
+         "intersections" : [ 32 ],
+         "jumpback" : 0,
+         "omissions" : [],
+         "position" : 19,
+         "time" : 16.20
+      },
+      {
+         "excesses" : [],
+         "intersections" : [ 32 ],
+         "jumpback" : 0,
+         "omissions" : [],
+         "position" : 20,
+         "time" : 17.40
+      },
+      {
+         "excesses" : [],
+         "intersections" : [ 42, 33 ],
+         "jumpback" : 0,
+         "omissions" : [],
+         "position" : 21,
+         "time" : 18.0
+      },
+      {
+         "excesses" : [],
+         "intersections" : [ 33 ],
+         "jumpback" : 0,
+         "omissions" : [],
+         "position" : 22,
+         "time" : 19.20
+      },
+      {
+         "excesses" : [],
+         "intersections" : [ 47, 35 ],
+         "jumpback" : 0,
+         "omissions" : [],
+         "position" : 23,
+         "time" : 19.80
+      },
+      {
+         "excesses" : [],
+         "intersections" : [ 35 ],
+         "jumpback" : 0,
+         "omissions" : [],
+         "position" : 24,
+         "time" : 21.0
+      },
+      {
+         "excesses" : [],
+         "intersections" : [ 44, 28 ],
+         "jumpback" : 0,
+         "omissions" : [],
+         "position" : 25,
+         "time" : 21.60
+      },
+      {
+         "excesses" : [],
+         "intersections" : [ 28 ],
+         "jumpback" : 0,
+         "omissions" : [],
+         "position" : 26,
+         "time" : 22.80
+      },
+      {
+         "excesses" : [],
+         "intersections" : [ 32 ],
+         "jumpback" : 0,
+         "omissions" : [],
+         "position" : 27,
+         "time" : 23.40
+      },
+      {
+         "excesses" : [],
+         "intersections" : [ 32 ],
+         "jumpback" : 0,
+         "omissions" : [],
+         "position" : 28,
+         "time" : 24.60
+      },
+      {
+         "excesses" : [],
+         "intersections" : [ 42, 33 ],
+         "jumpback" : 0,
+         "omissions" : [],
+         "position" : 29,
+         "time" : 25.20
+      },
+      {
+         "excesses" : [],
+         "intersections" : [ 33 ],
+         "jumpback" : 0,
+         "omissions" : [],
+         "position" : 30,
+         "time" : 26.40
+      },
+      {
+         "excesses" : [],
+         "intersections" : [ 47, 35 ],
+         "jumpback" : 0,
+         "omissions" : [],
+         "position" : 31,
+         "time" : 27.0
+      },
+      {
+         "excesses" : [],
+         "intersections" : [ 35 ],
+         "jumpback" : 0,
+         "omissions" : [],
+         "position" : 32,
+         "time" : 28.20
+      },
+      {
+         "excesses" : [],
+         "intersections" : [ 44, 28 ],
+         "jumpback" : 0,
+         "omissions" : [],
+         "position" : 33,
+         "time" : 28.80
+      },
+      {
+         "excesses" : [],
+         "intersections" : [ 28 ],
+         "jumpback" : 0,
+         "omissions" : [],
+         "position" : 34,
+         "time" : 30.0
+      },
+      {
+         "excesses" : [],
+         "intersections" : [ 32 ],
+         "jumpback" : 0,
+         "omissions" : [],
+         "position" : 35,
+         "time" : 30.60
+      },
+      {
+         "excesses" : [],
+         "intersections" : [ 32 ],
+         "jumpback" : 0,
+         "omissions" : [],
+         "position" : 36,
+         "time" : 31.80
+      },
+      {
+         "excesses" : [],
+         "intersections" : [ 42, 33 ],
+         "jumpback" : 0,
+         "omissions" : [],
+         "position" : 37,
+         "time" : 32.40
+      },
+      {
+         "excesses" : [],
+         "intersections" : [ 33 ],
+         "jumpback" : 0,
+         "omissions" : [],
+         "position" : 38,
+         "time" : 33.60
+      },
+      {
+         "excesses" : [],
+         "intersections" : [ 44, 35 ],
+         "jumpback" : 0,
+         "omissions" : [],
+         "position" : 39,
+         "time" : 34.20
+      },
+      {
+         "excesses" : [],
+         "intersections" : [ 35 ],
+         "jumpback" : 0,
+         "omissions" : [],
+         "position" : 40,
+         "time" : 35.40000000000001
+      },
+      {
+         "excesses" : [],
+         "intersections" : [ 40, 32 ],
+         "jumpback" : 0,
+         "omissions" : [],
+         "position" : 41,
+         "time" : 36.00000000000001
+      },
+      {
+         "excesses" : [],
+         "intersections" : [ 35 ],
+         "jumpback" : 0,
+         "omissions" : [],
+         "position" : 42,
+         "time" : 37.20000000000001
+      },
+      {
+         "excesses" : [],
+         "intersections" : [ 37 ],
+         "jumpback" : 0,
+         "omissions" : [],
+         "position" : 43,
+         "time" : 37.80000000000001
+      },
+      {
+         "excesses" : [],
+         "intersections" : [ 35 ],
+         "jumpback" : 0,
+         "omissions" : [],
+         "position" : 44,
+         "time" : 39.00000000000001
+      },
+      {
+         "excesses" : [],
+         "intersections" : [ 38 ],
+         "jumpback" : 0,
+         "omissions" : [],
+         "position" : 45,
+         "time" : 39.60000000000002
+      }
+   ]
+}
+
